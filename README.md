@@ -9,8 +9,7 @@ Subject Application & Scaling :
 Problems  Reference :
 We refer to a sample RFID tracker that provides a reasonable accurate position for our dog
 
-Problems Analysis & Justification with References to Regulation
-Aircraft Accident Reference: Accident & Safety Investigation & Prevention
+Problems Analysis & Justification : References to Regulation Aircraft Accident Reference: Accident & Safety Investigation & Prevention
 
 SOAM Analysis
 IATA/EASA/ICAO Accident & Safety Investigation & Prevention Documentation Reference
