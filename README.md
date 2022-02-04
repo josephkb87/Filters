@@ -14,4 +14,4 @@ Problems  Reference : We refer to a sample RFID tracker that provides a reasonab
 Parts/Steps
 #1.simulation of the dog
 moving from left to right at a constant speed with some random noise added.
-Subject Application  &Scaling :3d Multi Dimension Kallmann Filter Global Fleet to Accident Prevention through AI & ML Flight Contro Systems Design
+Subject Application  &Scaling :3d Multi Dimension Kallmann Filter Global Fleet to Accident Prevention through AI & ML Flight Contro Systems Design.
