@@ -4,7 +4,7 @@
 We design a sample AI & ML Flight Control Systems Design candidate System that utilises optimal recursive estimator used in control systems and signal processing to extract a signal from noise.
 
 ## Subject Scope
-Tracking A Dog_Using_A_Simple 1D Kalman Filter Model.
+Tracking A Dog_Using_A_Simple 1D Kalman Filter Model utilising a sample RFID tracker that provides a reasonable accurate position for our [dog](sample AI & ML Flight Control Systems Design )  candidate that utilises an optimal recursive estimator used in control systems and signal processing to extract a signal from noise of our sample AI & ML Flight Control Systems Design candidate.
 
 #### Subject Application & Scaling 
 3d Multi Dimension Kalmann Filter Modelling  & for Accident Mitigitation Prevention through AI & ML Flight Contro Systems Design.
