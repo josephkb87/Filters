@@ -20,9 +20,6 @@ Accident & Safety Investigation & Prevention Documentation Reference.
 We refer to a sample RFID tracker that provides a reasonable accurate position for our [dog](sample AI & ML Flight Contro Systems Design candidate).But since implementing and/or robustly modeling an RFID system is beyond the scope of our simple model.We design a simple  AI & ML Flight Contro Systems Design that utilise an optimal recursive estimator used in control systems and signal processing to extract a signal from noise of our sample AI & ML Flight Contro Systems Design candidate.
 
 ## Parts/Steps
-1.simulation of Our sample candidate moving from left to right at a constant speed with some random noise added.
-
-* Subject Application  & Scaling
-3d Multi Dimension Kallman Filter Global Fleet to Accident Prevention through AI & ML Flight Contro Systems Design.
+1.Simulation of Our sample candidate moving from left to right at a constant speed with some random noise added.
 
 
