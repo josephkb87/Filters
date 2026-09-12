@@ -1,8 +1,11 @@
 #This program will implement a Kalman Filter in Python that Tracks a Dog
 #Using a simple 1D Kalmann Filter
 
+[AUTHORS](./docs/AUTHORS.md)
 """name = "@clydekingkid"  #The code author#
 twitter = ", @clydekingkid"""
+
+"""name = "@kiyinijoseph"  #The code author#
 
 #Python libraries to import#
 #In [3]: from __future__ import print_function, division#
