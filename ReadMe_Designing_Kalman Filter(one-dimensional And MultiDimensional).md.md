@@ -1,6 +1,6 @@
 ## Designing_Kalman Filter(one-dimensional And MultiDimensional).
 
-## Subject Scope :
+## Subject Scope
 This Project Repo will cover the basics of designing Kalman filters
 
 ## Steps followed in the Design Parts/Steps;
